@@ -46,7 +46,7 @@ the initial committer will play the role of the maintainer similar to open sourc
 pull requests and issues will be decided upon by a single person.
 This is far from optimal (considering the initial statement above),
 but we need to start somehow with enough structure to have a path to evolve.
-This will remain until there is clarify which roles and responsibilities are needed
+This will remain until there is clarity which roles and responsibilities are needed
 and who is willing and capable to fulfill them.
 
 If you disagree with this approach, 
