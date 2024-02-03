@@ -24,7 +24,7 @@ to continously blog about the current status.
 There is an outline that can be derived from the blog directory.
 
 ### Why the the name "wir"?
-"Wir" is German for us.
+"Wir" is German for we.
 This stresses one of the core values of this project:
 science and the humanities should not be driven by an individual's ambition,
 but by their wish to contribute to extend and share knowledge.
