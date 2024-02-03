@@ -2,3 +2,5 @@
 * reviews
 * services
 * versioning
+* template
+* contributions
